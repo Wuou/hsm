@@ -23,9 +23,3 @@ A powerful, fully-featured, and type-safe Hierarchical State Machine (HSM) frame
 - **Delegate & Observability**: Rich delegate protocols for transitions, errors, and lifecycle events.
 - **Runtime Context**: Powerful `StateMachineContext` for inspecting states, sending internal signals, and extracting event parameters.
 
-### 📦 Installation
-
-#### Swift Package Manager
-
-Add the following to your `Package.swift`:
-
